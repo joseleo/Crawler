@@ -14,5 +14,4 @@ class OslcrawlerItem(scrapy.Item):
     author = scrapy.Field()
     content = scrapy.Field()
     categories = scrapy.Field()
-    labels = scrapy.Field()
     pass
