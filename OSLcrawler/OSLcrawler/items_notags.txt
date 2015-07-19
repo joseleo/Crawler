@@ -1,0 +1,532 @@
+Titulo:Ganadores del Certamen de Proyectos Libres de la UGR 2014-2015 
+Autor:Pablo Hinojosa
+
+Titulo:Final del Certamen de Proyectos Libres de la UGR 2014-2015
+Autor:Pablo Hinojosa
+
+Titulo:Novedades del Campus Infantil de Software Libre 2015
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Oferta formativa primer cuatrimestre curso 2015-2016
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Ganadores del Certamen de Proyectos Libres de la UGR 2014-2015 
+Autor:Pablo Hinojosa
+
+Titulo:Proyectos inscritos en el Certamen de Proyectos Libres de la UGR 2014-2015
+Autor:Pablo Hinojosa
+
+Titulo:Certamen de Proyectos Libres de la UGR 2014-2015 
+Autor:admin
+
+Titulo:Jurado para el Certamen de Proyectos Libres de la UGR
+Autor:Pablo Hinojosa
+
+Titulo:III Jornadas de Periodismo de Datos y Open Data
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Campus Infantil de Software Libre 2015 
+Autor:Pablo Hinojosa
+
+Titulo:Arab tex 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Certamen de Proyectos Libres de la UGR 2014-2015 
+Autor:admin
+
+Titulo:Seminario de Protocoder
+Autor:Pablo Hinojosa
+
+Titulo:Repositorios de Debian actualizados 
+Autor:Pablo Hinojosa
+
+Titulo:Campus Infantil de Software Libre 2015 
+Autor:Pablo Hinojosa
+
+Titulo:Document Freedom Day 2015
+Autor:Pablo Hinojosa
+
+Titulo:Arab tex 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Talleres y cursos de git
+Autor:Pablo Hinojosa
+
+Titulo:Repositorios de Debian actualizados 
+Autor:Pablo Hinojosa
+
+Titulo:Concurso Guadalinex de fondos de escritorio 2013 
+Autor:Pablo Hinojosa
+
+Titulo:Hackathon de Seguridad Corporativa
+Autor:Paloma de las Cuevas
+
+Titulo:La experiencia de usuario en el mundo digital
+Autor:Pablo Hinojosa
+
+Titulo:Taller de Ruby
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Cursos Online de Software Libre de la UGR para este cuatrimestre 
+Autor:Pablo Hinojosa
+
+Titulo:Hackathon de proyectos 2015
+Autor:Pablo Hinojosa
+
+Titulo:Oferta formativa comienzo curso 2014-2015
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Show me the money, show me the code: Oportunidades de negocio con software libre 
+Autor:Pablo Hinojosa
+
+Titulo:CUSL en marcha
+Autor:Pablo Hinojosa
+
+Titulo:Taller de markdown 
+Autor:Pablo Hinojosa
+
+Titulo:Open Data Day 2015 
+Autor:Pablo Hinojosa
+
+Titulo:Programa de actos de la final del VII CUSL 
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Online de Software Libre de la UGR para este cuatrimestre
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Online de Software Libre de la UGR para este cuatrimestre 
+Autor:Pablo Hinojosa
+
+Titulo:Open Data Day en Granada 2014
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:3er Open Data Day Granada
+Autor:German Martinez
+
+Titulo:Open Data Day 2015 
+Autor:Pablo Hinojosa
+
+Titulo:Programa de actos de la final del VII CUSL 
+Autor:Pablo Hinojosa
+
+Titulo:Granada Perl Workshop
+Autor:Pablo Hinojosa
+
+Titulo:IV Campus de Software Libre de la UGR 
+Autor:Pablo Hinojosa
+
+Titulo:Campus de software libre 2012: Lecciones aprendidas 
+Autor:admin
+
+Titulo:Hardware Freedom Day
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Final Granadina del CUSL 
+Autor:Pablo Hinojosa
+
+Titulo:Taller de Ajax 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Software Freedom Day + !BarraLibreCamp 2012 
+Autor:Pablo Hinojosa
+
+Titulo:Oferta formativa fin de curso 2014.
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Nuevo Mirror de Arch Linux 
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Online de Software Libre de la UGR para este cuatrimestre
+Autor:Pablo Hinojosa
+
+Titulo:Campus de Software Libre de la UGR 2014 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Software Freedom Day + !BarraLibreCamp 2012 
+Autor:Pablo Hinojosa
+
+Titulo:FLISoL 2013 
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Online de Software Libre en la UGR 2013 
+Autor:Pablo Hinojosa
+
+Titulo:Carta de ajuste 
+Autor:admin
+
+Titulo:Nuevo Mirror de Arch Linux 
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Abiertos y Cursos Tutorizados de la Oficina de Software Libre 
+Autor:Pablo Hinojosa
+
+Titulo:Campus de Software Libre de la UGR 2014 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Carta de ajuste 
+Autor:admin
+
+Titulo:Feliz Navidad desde la OSL
+Autor:toblerone
+
+Titulo:Campus Infantil de Software Libre 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Cierre por reformas
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Abiertos y Cursos Tutorizados de la Oficina de Software Libre 
+Autor:Pablo Hinojosa
+
+Titulo:Fallo del premio local granadino del Concurso Universitario de Software Libre 
+Autor:admin
+
+Titulo:Mirrors de la OSL
+Autor:Pablo Hinojosa
+
+Titulo:Taller de Processing aplazado 
+Autor:Pablo Hinojosa
+
+Titulo:Charla sobre el Google Summer of Code
+Autor:Pablo Hinojosa
+
+Titulo:Culture Freedom Day
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Campus Infantil de Software Libre 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Taller de Processing aplazado 
+Autor:Pablo Hinojosa
+
+Titulo:Software Freedom Day 
+Autor:Pablo Hinojosa
+
+Titulo:Ranking de Universidades en Software Libre 2014
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Document Freedom Day 2014 
+Autor:Pablo Hinojosa
+
+Titulo:Software Freedom Day 2012 en Granada 
+Autor:Pablo Hinojosa
+
+Titulo:Diplomas
+Autor:Pablo Hinojosa
+
+Titulo:Software Libre en Casablanca (Marruecos)
+Autor:Javi
+
+Titulo:Avanzando en los proyectos del Cusl (VI Hackathon).
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Mejorando el acceso a inodos 
+Autor:Pablo Hinojosa
+
+Titulo:Ubunchu
+Autor:Pablo Hinojosa
+
+Titulo:Nueva Sede de la OSL
+Autor:toblerone
+
+Titulo:Nuevo Certificado para CVI-UGR 
+Autor:Fran Lucena
+
+Titulo:Mejorando el acceso a inodos 
+Autor:Pablo Hinojosa
+
+Titulo:!BarraLibre Camp 
+Autor:Pablo Hinojosa
+
+Titulo:sudo apt-get upgrade year 
+Autor:Pablo Hinojosa
+
+Titulo:Nuevo Certificado para CVI-UGR 
+Autor:Fran Lucena
+
+Titulo:SLUGR, sistema de URLs cortos para la Universidad de Granada 
+Autor:admin
+
+Titulo:sudo apt-get upgrade year 
+Autor:Pablo Hinojosa
+
+Titulo:Fase Final CUSL4 
+Autor:Fran Lucena
+
+Titulo:!BarraLibre Camp 
+Autor:Pablo Hinojosa
+
+Titulo:SLUGR ahora muestra QRcodes 
+Autor:Pablo Hinojosa
+
+Titulo:go4.es 
+Autor:Pablo Hinojosa
+
+Titulo:Not BarraLibre Camp
+Autor:Pablo Hinojosa
+
+Titulo:En Sevilla (a tiempo real) 
+Autor:Pablo Hinojosa
+
+Titulo:GNU Taste
+Autor:Pablo Hinojosa
+
+Titulo:Fase Final CUSL4 
+Autor:Fran Lucena
+
+Titulo:SLUGR ahora muestra QRcodes 
+Autor:Pablo Hinojosa
+
+Titulo:go4.es 
+Autor:Pablo Hinojosa
+
+Titulo:En Sevilla (a tiempo real) 
+Autor:Pablo Hinojosa
+
+Titulo:Final Cusl 2013-2014 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Transparencias del curso CENATIC
+Autor:Pablo Hinojosa
+
+Titulo:Final Cusl 2013-2014 
+Autor:Renato Luis Ramirez Rivero
+
+Titulo:Supercomputadores (con Linux, claro) 
+Autor:Pablo Hinojosa
+
+Titulo:I Hackathon en Tesis 
+Autor:Fran Lucena
+
+Titulo:Aprendiendo de los expertos: OpenData 
+Autor:Pablo Hinojosa
+
+Titulo:Taller de Processing y Arduino
+Autor:admin
+
+Titulo:Supercomputadores (con Linux, claro) 
+Autor:Pablo Hinojosa
+
+Titulo:Dos proyectos granadinos en la final del CUSL
+Autor:Pablo Hinojosa
+
+Titulo:Aprendiendo de los expertos: OpenData 
+Autor:Pablo Hinojosa
+
+Titulo:La oficina de software libre, de luto
+Autor:admin
+
+Titulo:Taller de Gimp avanzado 
+Autor:Pablo Hinojosa
+
+Titulo:Granada Open Source Web Conference
+Autor:Pablo Hinojosa
+
+Titulo:Finalistas a la fase final del CUSL
+Autor:Pablo Hinojosa
+
+Titulo:Terceras jornadas de proyectos de software libre
+Autor:admin
+
+Titulo:Recordatorio: Fiesta Gnome 3.0
+Autor:Pablo Hinojosa
+
+Titulo:Ubuntu Tips: Limpiando la lista de arranque 
+Autor:Pablo Hinojosa
+
+Titulo:Instalar Debian (Parte I) 
+Autor:campanilla
+
+Titulo:Fiesta de lanzamiento de Gnome 3.0
+Autor:Pablo Hinojosa
+
+Titulo:Software Freedom Day 2010
+Autor:Pablo Hinojosa
+
+Titulo:Ubuntu Tips: Limpiando la lista de arranque 
+Autor:Pablo Hinojosa
+
+Titulo:Final de la fase local del CUSL
+Autor:Pablo Hinojosa
+
+Titulo:Instalar Debian (Parte I) 
+Autor:campanilla
+
+Titulo:Taller de ScreenCast 
+Autor:Pablo Hinojosa
+
+Titulo:Logos, bocetos y plantilla latex
+Autor:ramirezversion
+
+Titulo:Curso de LaTeX
+Autor:Pablo Hinojosa
+
+Titulo:Presentacion del VI Concurso Universitario de Software Libre 
+Autor:Pablo Hinojosa
+
+Titulo:OSWC 2012 
+Autor:Pablo Hinojosa
+
+Titulo:Talleres de Software Libre en la ETSIIT
+Autor:Pablo Hinojosa
+
+Titulo:Fase final del CUSL
+Autor:Pablo Hinojosa
+
+Titulo:Primer concurso de aplicaciones libre del PAS de la UGR 
+Autor:admin
+
+Titulo:OSWC 2012 
+Autor:Pablo Hinojosa
+
+Titulo:Encuentro OpenData Sevilla
+Autor:Pablo Hinojosa
+
+Titulo:Cursos OnLine de Software Libre en la UGR 
+Autor:Pablo Hinojosa
+
+Titulo:Software Freedom Day 2011
+Autor:Pablo Hinojosa
+
+Titulo:Cursos OnLine de Software Libre en la UGR 
+Autor:Pablo Hinojosa
+
+Titulo:Taller de ScreenCast 
+Autor:Pablo Hinojosa
+
+Titulo:LaVega LanParty
+Autor:Pablo Hinojosa
+
+Titulo:Cursos (presenciales) de Software Libre en la UGR
+Autor:Pablo Hinojosa
+
+Titulo:Patrocinio de CENATIC
+Autor:Pablo Hinojosa
+
+Titulo:Tutorial Software Libre XXPAUT
+Autor:Pablo Hinojosa
+
+Titulo:Certificados de asistencia a los Talleres de Software Libre
+Autor:Pablo Hinojosa
+
+Titulo:Final del CUSL-Granada (proyectos) 
+Autor:Pablo Hinojosa
+
+Titulo:Post-navidad
+Autor:ramirezversion
+
+Titulo:Final del CUSL-Granada (proyectos) (y II)
+Autor:Pablo Hinojosa
+
+Titulo:11 proyectos en la fase local del CUSL 
+Autor:Pablo Hinojosa
+
+Titulo:Final del CUSL-Granada (proyectos) (y III) 
+Autor:Pablo Hinojosa
+
+Titulo:Final del CUSL-Granada (proyectos) (y IV)
+Autor:Pablo Hinojosa
+
+Titulo:JAI-JDK integrado con Eclipse
+Autor:luisette
+
+Titulo:El 10 Perfecto
+Autor:Pablo Hinojosa
+
+Titulo:Taller de Programacion para Android 
+Autor:Pablo Hinojosa
+
+Titulo:Combinando JAI
+Autor:luisette
+
+Titulo:Taller de  Sistemas de control de fuentes 
+Autor:Pablo Hinojosa
+
+Titulo:Taller de Programacion para Android 
+Autor:Pablo Hinojosa
+
+Titulo:Openstreetmap (recordatorio)
+Autor:Pablo Hinojosa
+
+Titulo:Open Source World Conference 2009
+Autor:Pablo Hinojosa
+
+Titulo:Software Freedom Day 
+Autor:Pablo Hinojosa
+
+Titulo:Lester, software libre para el etiquetado de reactivos 
+Autor:Pablo Hinojosa
+
+Titulo:GUI  Scribe
+Autor:ramirezversion
+
+Titulo:Arrancar un Live-CD desde el Grub2 con imagen .iso
+Autor:Manu
+
+Titulo:IV Campus de Software Libre de la UGR 
+Autor:Pablo Hinojosa
+
+Titulo:Taller de markdown 
+Autor:Pablo Hinojosa
+
+Titulo:Google Summer of Code 2013 
+Autor:Pablo Hinojosa
+
+Titulo:Origen de TUTATISK
+Autor:angelu25
+
+Titulo:Cuarto Hackathon de proyectos de software libre de la UGR 
+Autor:admin
+
+Titulo:Taller sobre propiedad intelectual por David Bravo
+Autor:Pablo Hinojosa
+
+Titulo:Talleres de git
+Autor:Pablo Hinojosa
+
+Titulo:Google Summer of Code 2013 
+Autor:Pablo Hinojosa
+
+Titulo:Objetivos de TUTATISK
+Autor:angelu25
+
+Titulo:Tercer Hackathon de proyectos de Software Libre 
+Autor:Pablo Hinojosa
+
+Titulo:Seminario de GAP
+Autor:Pablo Hinojosa
+
+Titulo:Cuarto Hackathon de proyectos de software libre de la UGR 
+Autor:admin
+
+Titulo:Concurso Guadalinex de fondos de escritorio 2013 
+Autor:Pablo Hinojosa
+
+Titulo:Los lunes al OSL: Arduino
+Autor:Pablo Hinojosa
+
+Titulo:The Beginning
+Autor:ramirezversion
+
+Titulo:Ordenadores Libres con Software Libre 
+Autor:Pablo Hinojosa
+
+Titulo:About
+Autor:Fabian Seoane
+
+Titulo:Ordenadores Libres con Software Libre 
+Autor:Pablo Hinojosa
+
+Titulo:Primeros bocetos HIW
+Autor:ramirezversion
+
+Titulo:SFD 2013
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Online de Software Libre de la UGR para este cuatrimestre 
+Autor:Pablo Hinojosa
+
+Titulo:Cursos Online de Software Libre de la UGR para este cuatrimestre 
+Autor:Pablo Hinojosa
+
+</body></html>

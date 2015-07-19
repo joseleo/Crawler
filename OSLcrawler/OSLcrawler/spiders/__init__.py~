@@ -67,6 +67,8 @@ class oslSpider(CrawlSpider):
     	i['content'] = parse_content(response.xpath('//article/section/*[not(@class="shareinpost")]/node()').extract())
 
         i['categories'] = response.xpath('//header/div[@class="entry-meta"]/a[@class="btn btn-mini"]/text()').extract()
+     
+        i['labels'] = response.xpath('//header/div[@class="entry-meta"]/a[@class="btn btn-mini btn-tag"]/text()').extract() 
 
     	return i
 

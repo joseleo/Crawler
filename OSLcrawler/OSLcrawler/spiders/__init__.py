@@ -10,25 +10,14 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from OSLcrawler.items import OslcrawlerItem
 
-'''
-def prevent_shareinpost(nodo):
-    pattern = "class=\"shareinpost\""
-    
-    if re.search(pattern, nodo):
-        return ""
-    else:
-        return nodo
-'''
-
 def parse_content(content):
     contentConcat = ""
     contentList = []
 
     for nodo in content:
-#       contentConcat += prevent_shareinpost(nodo)
         contentConcat += nodo
+
     contentList.append(contentConcat)
-	
     return contentList
 
 class oslSpider(CrawlSpider):
@@ -60,17 +49,14 @@ class oslSpider(CrawlSpider):
 
     def parse_item(self, response):
         i = OslcrawlerItem()
+
         i['title'] = response.xpath('//h1[@class="entry-title format-icon"]/text()').extract()
         i['author'] = response.xpath('//span[@class="author vcard"]/a[@rel="author"]/text()').extract()
-
-#	i['content'] = parse_content(response.xpath('//article/section/node()').extract())
-    	i['content'] = parse_content(response.xpath('//article/section/*[not(@class="shareinpost")]/node()').extract())
-
+      	i['content'] = parse_content(response.xpath('//article/section/*[not(@class="shareinpost")]/node()').extract())
         i['categories'] = response.xpath('//header/div[@class="entry-meta"]/a[@class="btn btn-mini"]/text()').extract()
-     
         i['labels'] = response.xpath('//header/div[@class="entry-meta"]/a[@class="btn btn-mini btn-tag"]/text()').extract() 
 
-    	return i
+        return i
 
 
         
