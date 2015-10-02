@@ -10,6 +10,7 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from OSLcrawler.items import OslcrawlerItem
 
+
 def parse_content(content):
     contentConcat = ""
     contentList = []
@@ -20,6 +21,7 @@ def parse_content(content):
     contentList.append(contentConcat)
     return contentList
 
+
 class oslSpider(CrawlSpider):
     name = 'OSL'
     allowed_domains = ['osl.ugr.es']
@@ -29,8 +31,7 @@ class oslSpider(CrawlSpider):
         Rule(
             LinkExtractor(
                 allow=(
-                    '/page/\d+/',
-                 ),
+                    '/page/\d+/',),
             ),
         ),
 
@@ -43,20 +44,28 @@ class oslSpider(CrawlSpider):
             callback = 'parse_item',
             follow = True
         ),
-        
-    )
 
+    )
 
     def parse_item(self, response):
         i = OslcrawlerItem()
 
-        i['title'] = response.xpath('//h1[@class="entry-title format-icon"]/text()').extract()
-        i['author'] = response.xpath('//span[@class="author vcard"]/a[@rel="author"]/text()').extract()
-      	i['content'] = parse_content(response.xpath('//article/section/*[not(@class="shareinpost")]/node()').extract())
-        i['categories'] = response.xpath('//header/div[@class="entry-meta"]/a[@class="btn btn-mini"]/text()').extract()
-        i['labels'] = response.xpath('//header/div[@class="entry-meta"]/a[@class="btn btn-mini btn-tag"]/text()').extract() 
+        i['title'] = response.xpath(
+            '//h1[@class="entry-title format-icon"]/text()'
+        ).extract()
+        i['author'] = response.xpath(
+            '//span[@class="author vcard"]/a[@rel="author"]/text()'
+        ).extract()
+        i['content'] = parse_content(response.xpath(
+            '//article/section/*[not(@class="shareinpost")]/node()'
+        ).extract())
+        i['categories'] = response.xpath(
+            '//header/div[@class="entry-meta"]/a[@class="btn btn-mini"]/text()'
+        ).extract()
+        i['labels'] = response.xpath(
+            '//header/div[@class="entry-meta"]/' +
+            'a[@class="btn btn-mini btn-tag"]/text()'
+        ).extract()
+        i['date'] = response.xpath('//time/text()').extract()
 
         return i
-
-
-        

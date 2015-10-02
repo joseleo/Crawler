@@ -15,4 +15,4 @@ class OslcrawlerItem(scrapy.Item):
     content = scrapy.Field()
     categories = scrapy.Field()
     labels = scrapy.Field()
-    pass
+    date = scrapy.Field()
