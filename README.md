@@ -1,4 +1,6 @@
 # Crawler
+## Proyecto para el curso de Programación en Python en OSL UGR.
+
 Spider para la descarga de posts de la página principal de OSL.
 Por cada post que aparece en la página principal de osl.ugr.es de debe obtener:
 
